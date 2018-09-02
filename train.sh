@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 train.py > train_output_3epochs_new.txt &

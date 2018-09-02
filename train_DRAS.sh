@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python3 train.py > trainDRAS_output_1epochs_ptr_gen_new.txt &
